@@ -269,7 +269,7 @@
     "size": {
       "global": {
         "base": {
-          "value": "16",
+          "value": "8",
           "description": "Base size 1rem = 16px",
           "type": "sizing"
         },
