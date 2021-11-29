@@ -1,0 +1,539 @@
+{
+  "global": {
+    "Neutrals": {
+      "Black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "Gray 1 100": {
+        "value": "#192d38",
+        "type": "color"
+      },
+      "Gray 1 075": {
+        "value": "#53626a",
+        "type": "color"
+      },
+      "Gray 1 050": {
+        "value": "#8c969b",
+        "type": "color"
+      },
+      "Gray 1 025": {
+        "value": "#c5cacd",
+        "type": "color"
+      },
+      "Gray 2 100": {
+        "value": "#495961",
+        "type": "color"
+      },
+      "Gray 2 075": {
+        "value": "#778389",
+        "type": "color"
+      },
+      "Gray 2 050": {
+        "value": "#a4acb0",
+        "type": "color"
+      },
+      "Gray 2 025": {
+        "value": "#d1d5d7",
+        "type": "color"
+      },
+      "Gray 3 100": {
+        "value": "#83929b",
+        "type": "color"
+      },
+      "Gray 3 075": {
+        "value": "#a2adb4",
+        "type": "color"
+      },
+      "Gray 3 050": {
+        "value": "#c1c8cd",
+        "type": "color"
+      },
+      "Gray 3 025": {
+        "value": "#e0e4e6",
+        "type": "color"
+      },
+      "Gray 4 100": {
+        "value": "#bfc9d0",
+        "type": "color"
+      },
+      "Gray 4 075": {
+        "value": "#cfd7dc",
+        "type": "color"
+      },
+      "Gray 4 050": {
+        "value": "#dfe4e7",
+        "type": "color"
+      },
+      "Gray 4 025": {
+        "value": "#eff1f3",
+        "type": "color"
+      },
+      "Gray 5 100": {
+        "value": "#ecf2f6",
+        "type": "color"
+      },
+      "Gray 5 075": {
+        "value": "#f1f5f8",
+        "type": "color"
+      },
+      "Gray 5 050": {
+        "value": "#f5f8fa",
+        "type": "color"
+      },
+      "Gray 5 025": {
+        "value": "#fafcfd",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "None": {
+        "value": "#ffffff00",
+        "type": "color"
+      },
+      "UI Gray 4 100 20%": {
+        "value": "linear-gradient(90deg, #bfc9d033 0%, #bfc9d033 100%)",
+        "type": "color"
+      }
+    },
+    "Blues": {
+      "Gerdau Blue 100": {
+        "value": "#003366",
+        "type": "color"
+      },
+      "Gerdau Blue 075": {
+        "value": "#40668c",
+        "type": "color"
+      },
+      "Gerdau Blue 050": {
+        "value": "#7f99b2",
+        "type": "color"
+      },
+      "Gerdau Blue 025": {
+        "value": "#bfccd9",
+        "type": "color"
+      },
+      "Gerdau Light-Blue 100": {
+        "value": "#0578be",
+        "type": "color"
+      },
+      "Gerdau Light-Blue 075": {
+        "value": "#449ace",
+        "type": "color"
+      },
+      "Gerdau Light-Blue 050": {
+        "value": "#82bbde",
+        "type": "color"
+      },
+      "Gerdau Light-Blue 025": {
+        "value": "#c0ddef",
+        "type": "color"
+      },
+      "Sky-Blue 100": {
+        "value": "#3399cc",
+        "type": "color"
+      },
+      "Sky-Blue 075": {
+        "value": "#66b3d9",
+        "type": "color"
+      },
+      "Sky-Blue 050": {
+        "value": "#99cce5",
+        "type": "color"
+      },
+      "Sky-Blue 025": {
+        "value": "#cce5f2",
+        "type": "color"
+      },
+      "UI Light Blue": {
+        "value": "#f2f8fc",
+        "type": "color"
+      }
+    },
+    "Yellows": {
+      "Gerdau Yellow 100": {
+        "value": "#ffcc00",
+        "type": "color"
+      },
+      "Gerdau Yellow 075": {
+        "value": "#ffdb4d",
+        "type": "color"
+      },
+      "Gerdau Yellow 050": {
+        "value": "#ffeb99",
+        "type": "color"
+      },
+      "Gerdau Yellow 025": {
+        "value": "#fff5cc",
+        "type": "color"
+      },
+      "Golden-Yellow 100": {
+        "value": "#e5a812",
+        "type": "color"
+      },
+      "Golden-Yellow 075": {
+        "value": "#ecbe4d",
+        "type": "color"
+      },
+      "Golden-Yellow 050": {
+        "value": "#f2d388",
+        "type": "color"
+      },
+      "Golden-Yellow 025": {
+        "value": "#f8e9c4",
+        "type": "color"
+      }
+    },
+    "Greens": {
+      "Green 100": {
+        "value": "#99cc68",
+        "type": "color"
+      },
+      "Green 075": {
+        "value": "#b3d98e",
+        "type": "color"
+      },
+      "Green 050": {
+        "value": "#cce5b3",
+        "type": "color"
+      },
+      "Green 025": {
+        "value": "#e0f0d1",
+        "type": "color"
+      },
+      "UI Dark Green 100": {
+        "value": "#1e6a0f",
+        "type": "color"
+      },
+      "UI Bright Green 100": {
+        "value": "#31af19",
+        "type": "color"
+      }
+    },
+    "Reds": {
+      "Red 100": {
+        "value": "#c74a34",
+        "type": "color"
+      },
+      "Red 075": {
+        "value": "#d57767",
+        "type": "color"
+      },
+      "Red 050": {
+        "value": "#eaada2",
+        "type": "color"
+      },
+      "Red 025": {
+        "value": "#ffe2dc",
+        "type": "color"
+      },
+      "UI Dark Red 100": {
+        "value": "#990000",
+        "type": "color"
+      },
+      "UI Bright Red 100": {
+        "value": "#cc0000",
+        "type": "color"
+      }
+    },
+    "Purples": {
+      "Purple 100": {
+        "value": "#874487",
+        "type": "color"
+      },
+      "Purple 075": {
+        "value": "#a573a5",
+        "type": "color"
+      },
+      "Purple 050": {
+        "value": "#c3a1c3",
+        "type": "color"
+      },
+      "Purple 025": {
+        "value": "#e1d0e1",
+        "type": "color"
+      }
+    },
+    "fontFamilies": {
+      "barlow": {
+        "value": "Barlow",
+        "type": "fontFamilies"
+      },
+      "open-sans": {
+        "value": "Open Sans",
+        "type": "fontFamilies"
+      }
+    },
+    "size": {
+      "global": {
+        "base": {
+          "value": "16",
+          "description": "Base size 1rem = 16px",
+          "type": "sizing"
+        },
+        "minor": {
+          "value": ".125",
+          "description": "1/8 size increments",
+          "type": "sizing"
+        },
+        "major": {
+          "value": "1.5",
+          "description": "1.5 ratio between ",
+          "type": "sizing"
+        }
+      },
+      "btn": {
+        "IcoFix": {
+          "xxs": {
+            "value": "({FontSize.xxs} /4 ) * 3",
+            "type": "sizing"
+          },
+          "xs": {
+            "value": "({FontSize.xs} /4 ) * 3",
+            "type": "sizing"
+          },
+          "sm": {
+            "value": "({FontSize.sm} /4 ) * 3",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "({FontSize.md} /4 ) * 3",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "({FontSize.lg} /4 ) * 3",
+            "type": "sizing"
+          },
+          "xl": {
+            "value": "({FontSize.xl} /4 ) * 3",
+            "type": "sizing"
+          }
+        },
+        "height": {
+          "xxs": {
+            "value": "{LineHeight.xxs} + {Space.btn.xxs.height} +{Space.btn.xxs.height}",
+            "type": "sizing"
+          },
+          "xs": {
+            "value": "{LineHeight.xs} + {Space.btn.xs.height} +{Space.btn.xs.height}",
+            "type": "sizing"
+          },
+          "sm": {
+            "value": "{LineHeight.sm} + {Space.btn.sm.height} +{Space.btn.sm.height}",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "{LineHeight.md} + {Space.btn.md.height} +{Space.btn.md.height}",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "{LineHeight.lg} + {Space.btn.lg.height} +{Space.btn.lg.height}",
+            "type": "sizing"
+          },
+          "xl": {
+            "value": "{LineHeight.xl} + {Space.btn.xl.height} +{Space.btn.xl.height}",
+            "type": "sizing"
+          }
+        }
+      }
+    },
+    "FontSize": {
+      "xxs": {
+        "value": "{size.global.base} - ( {size.global.minor} * 3) * {size.global.base}",
+        "type": "fontSizes"
+      },
+      "xs": {
+        "value": "{size.global.base} - ( {size.global.minor} * 2 ) * {size.global.base}",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "{size.global.base} - ( {size.global.minor} * 1 ) * {size.global.base}",
+        "type": "fontSizes"
+      },
+      "md": {
+        "value": "{size.global.base} - ( {size.global.minor} * 0 ) * {size.global.base}",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "{size.global.base} + ( {size.global.minor} * 2 ) * {size.global.base}",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "{size.global.base} + ( {size.global.minor} * 6 ) * {size.global.base}",
+        "type": "fontSizes"
+      }
+    },
+    "LineHeight": {
+      "xxs": {
+        "value": "( ( {size.global.base} - ( {size.global.minor} * 3) * {size.global.base} ) * {size.global.major} )",
+        "type": "lineHeights"
+      },
+      "xs": {
+        "value": "( ( {size.global.base} - ( {size.global.minor} * 2) * {size.global.base} ) * {size.global.major} )",
+        "type": "lineHeights"
+      },
+      "sm": {
+        "value": "( ( {size.global.base} - ( {size.global.minor} * 1) * {size.global.base} ) * {size.global.major} )",
+        "type": "lineHeights"
+      },
+      "md": {
+        "value": "( ( {size.global.base} - ( {size.global.minor} * 0) * {size.global.base} ) * {size.global.major} )",
+        "type": "lineHeights"
+      },
+      "lg": {
+        "value": "( ( {size.global.base} + ( {size.global.minor} * 2) * {size.global.base} ) * {size.global.major} )",
+        "type": "lineHeights"
+      },
+      "xl": {
+        "value": "( ( {size.global.base} + ( {size.global.minor} * 6) * {size.global.base} ) * {size.global.major} )",
+        "type": "lineHeights"
+      }
+    },
+    "Space": {
+      "btn": {
+        "xxs": {
+          "height": {
+            "value": "({LineHeight.xxs} - {FontSize.xxs}) / 2 ",
+            "type": "spacing"
+          },
+          "width": {
+            "value": "{LineHeight.xxs} - {FontSize.xxs} ",
+            "type": "spacing"
+          },
+          "IcoHeight": {
+            "value": "( {FontSize.xxs} /4 ) /2",
+            "type": "spacing"
+          }
+        },
+        "xs": {
+          "height": {
+            "value": "({LineHeight.xs} - {FontSize.xs}) / 2 ",
+            "type": "spacing"
+          },
+          "width": {
+            "value": "({LineHeight.xs} - {FontSize.xs}) ",
+            "type": "spacing"
+          },
+          "IcoHeight": {
+            "value": "( {FontSize.xs} /4 ) /2",
+            "type": "spacing"
+          }
+        },
+        "sm": {
+          "height": {
+            "value": "({LineHeight.sm} - {FontSize.sm}) / 2 ",
+            "type": "spacing"
+          },
+          "width": {
+            "value": "{LineHeight.sm} - {FontSize.sm} ",
+            "type": "spacing"
+          },
+          "IcoHeight": {
+            "value": "( {FontSize.sm} /4 ) /2",
+            "type": "spacing"
+          }
+        },
+        "md": {
+          "height": {
+            "value": "({LineHeight.md} - {FontSize.md}) / 2 ",
+            "type": "spacing"
+          },
+          "width": {
+            "value": "{LineHeight.md} - {FontSize.md} ",
+            "type": "spacing"
+          },
+          "IcoHeight": {
+            "value": "( {FontSize.md} /4 ) /2",
+            "type": "spacing"
+          }
+        },
+        "lg": {
+          "height": {
+            "value": "({LineHeight.lg} - {FontSize.lg}) / 2 ",
+            "type": "spacing"
+          },
+          "width": {
+            "value": "{LineHeight.lg} - {FontSize.lg} ",
+            "type": "spacing"
+          },
+          "IcoHeight": {
+            "value": "( {FontSize.lg} /4 ) /2",
+            "type": "spacing"
+          }
+        },
+        "xl": {
+          "height": {
+            "value": "({LineHeight.xl} - {FontSize.xl}) / 2 ",
+            "type": "spacing"
+          },
+          "width": {
+            "value": "{LineHeight.xl} - {FontSize.xl} ",
+            "type": "spacing"
+          },
+          "IcoHeight": {
+            "value": "( {FontSize.xl} /4 ) /2",
+            "type": "spacing"
+          }
+        }
+      }
+    },
+    "BorderRadius": {
+      "btn": {
+        "xxs": {
+          "value": "(({LineHeight.xxs} - {FontSize.xxs}) / 4 ) * 2",
+          "type": "borderRadius"
+        },
+        "xs": {
+          "value": "(({LineHeight.xs} - {FontSize.xs}) / 4 ) * 2",
+          "type": "borderRadius"
+        },
+        "sm": {
+          "value": "(({LineHeight.sm} - {FontSize.sm}) / 4 ) * 2",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "(({LineHeight.md} - {FontSize.md}) / 4 ) * 2",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "(({LineHeight.lg} - {FontSize.lg}) / 4 ) * 2",
+          "type": "borderRadius"
+        },
+        "xl": {
+          "value": "(({LineHeight.xl} - {FontSize.xl}) / 4 ) * 2",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "BorderWidth": {
+      "btn": {
+        "xxs": {
+          "value": "({FontSize.xxs} * {size.global.minor} ) / {size.global.major}",
+          "type": "borderWidth"
+        },
+        "xs": {
+          "value": "({FontSize.xs} * {size.global.minor} ) / {size.global.major}",
+          "type": "borderWidth"
+        },
+        "sm": {
+          "value": "({FontSize.sm} * {size.global.minor} ) / {size.global.major}",
+          "type": "borderWidth"
+        },
+        "md": {
+          "value": "({FontSize.md} * {size.global.minor} ) / {size.global.major}",
+          "type": "borderWidth"
+        },
+        "lg": {
+          "value": "({FontSize.lg} * {size.global.minor} ) / {size.global.major}",
+          "type": "borderWidth"
+        },
+        "xl": {
+          "value": "({FontSize.xl} * {size.global.minor} ) / {size.global.major}",
+          "type": "borderWidth"
+        }
+      }
+    }
+  }
+}
