@@ -569,6 +569,72 @@
             "type": "spacing"
           }
         }
+      },
+      "global": {
+        "4": {
+          "value": "{size.global.base}/4",
+          "type": "spacing"
+        },
+        "8": {
+          "value": "({size.global.base}/4) * 2",
+          "type": "spacing"
+        },
+        "10": {
+          "value": "({size.global.base}/4) * 2.5",
+          "type": "spacing"
+        },
+        "12": {
+          "value": "({size.global.base}/4) * 3",
+          "type": "spacing"
+        },
+        "14": {
+          "value": "({size.global.base}/4) * 3.5",
+          "type": "spacing"
+        },
+        "16": {
+          "value": "({size.global.base}/4) * 4",
+          "type": "spacing"
+        },
+        "20": {
+          "value": "({size.global.base}/4) * 5",
+          "type": "spacing"
+        },
+        "24": {
+          "value": "({size.global.base}/4) * 6",
+          "type": "spacing"
+        },
+        "28": {
+          "value": "({size.global.base}/4) * 7",
+          "type": "spacing"
+        },
+        "32": {
+          "value": "({size.global.base}/4) * 8",
+          "type": "spacing"
+        },
+        "40": {
+          "value": "({size.global.base}/4) * 10",
+          "type": "spacing"
+        },
+        "48": {
+          "value": "({size.global.base}/4) * 12",
+          "type": "spacing"
+        },
+        "56": {
+          "value": "({size.global.base}/4) * 14",
+          "type": "spacing"
+        },
+        "64": {
+          "value": "({size.global.base}/4) * 16",
+          "type": "spacing"
+        },
+        "128": {
+          "value": "({size.global.base}/4) * 32",
+          "type": "spacing"
+        },
+        "256": {
+          "value": "({size.global.base}/4) * 64",
+          "type": "spacing"
+        }
       }
     },
     "BorderRadius": {
