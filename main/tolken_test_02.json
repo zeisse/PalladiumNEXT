@@ -762,7 +762,7 @@
         "regular": {
           "value": {
             "fontFamily": "{FontFamilies.body}",
-            "fontWeight": "{FontWeights.semibold}",
+            "fontWeight": "{FontWeights.regular}",
             "lineHeight": "{LineHeight.sm}",
             "fontSize": "{FontSize.sm}",
             "letterSpacing": "{letterSpacing.none}",
