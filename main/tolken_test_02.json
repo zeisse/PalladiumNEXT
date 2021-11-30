@@ -748,13 +748,13 @@
         "semibold": {
           "value": {
             "fontFamily": "{FontFamilies.body}",
-            "fontWeight": "{fontWeight.Semibold}",
+            "fontWeight": "{FontWeights.semibold}",
             "lineHeight": "{LineHeight.lg}",
             "fontSize": "{FontSize.lg}",
             "letterSpacing": "{letterSpacing.none}",
             "paragraphSpacing": "{ParagraphSpacing.none}",
-            "textCase": "{TextCase.none}",
-            "textDecoration": "{TextDecoration.none}"
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
           },
           "type": "typography"
         }
@@ -958,6 +958,24 @@
       "none": {
         "value": "none",
         "type": "textDecoration"
+      }
+    },
+    "Opacity": {
+      "100": {
+        "value": "100%",
+        "type": "opacity"
+      },
+      "075": {
+        "value": "75%",
+        "type": "opacity"
+      },
+      "050": {
+        "value": "50%",
+        "type": "opacity"
+      },
+      "025": {
+        "value": "25%",
+        "type": "opacity"
       }
     }
   }
