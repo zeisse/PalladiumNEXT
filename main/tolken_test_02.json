@@ -923,7 +923,7 @@
         }
       }
     },
-    "FontWeight": {
+    "fontWeight": {
       "regular": {
         "value": "Regular",
         "type": "fontWeights"
