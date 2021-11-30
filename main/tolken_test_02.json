@@ -705,7 +705,7 @@
           "value": {
             "fontFamily": "{FontFamilies.body}",
             "fontWeights": "{FontWeight.regular}",
-            "lineHeight": "{LineHeights.xl}",
+            "lineHeight": "{LineHeight.xl}",
             "fontSize": "{FontSize.xl}",
             "letterSpacing": "{LetterSpacing.none}",
             "paragraphSpacing": "{ParagraphSpacing.none}",
