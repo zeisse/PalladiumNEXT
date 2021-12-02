@@ -7,7 +7,8 @@
       },
       "Gray 1 100": {
         "value": "#192d38",
-        "type": "color"
+        "type": "color",
+        "description": "Gray 1 100"
       },
       "Gray 1 075": {
         "value": "#53626a",
