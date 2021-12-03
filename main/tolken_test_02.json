@@ -1146,6 +1146,43 @@
         },
         "type": "typography"
       }
+    },
+    "shadow": {
+      "inner": {
+        "sm": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "4",
+            "spread": "0",
+            "color": "{Neutrals.Gray 1 100}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "md": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "6",
+            "spread": "0",
+            "color": "{Neutrals.Gray 1 100}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "lg": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "8",
+            "spread": "0",
+            "color": "{Neutrals.Gray 1 100}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
     }
   }
 }
