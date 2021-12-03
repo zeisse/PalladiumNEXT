@@ -289,7 +289,7 @@
           "type": "sizing"
         }
       },
-      "btn": {
+      "box": {
         "IcoFix": {
           "xxs": {
             "value": "({FontSize.xxs} /4 ) * 3",
