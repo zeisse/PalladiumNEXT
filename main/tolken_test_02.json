@@ -318,27 +318,27 @@
         },
         "height": {
           "xxs": {
-            "value": "{LineHeight.xxs} + {Space.btn.xxs.height} +{Space.btn.xxs.height}",
+            "value": "{LineHeight.xxs} + {Space.box.xxs.height} + {Space.box.xxs.height}",
             "type": "sizing"
           },
           "xs": {
-            "value": "{LineHeight.xs} + {Space.btn.xs.height} +{Space.btn.xs.height}",
+            "value": "{LineHeight.xs} + {Space.box.xs.height} + {Space.box.xs.height}",
             "type": "sizing"
           },
           "sm": {
-            "value": "{LineHeight.sm} + {Space.btn.sm.height} +{Space.btn.sm.height}",
+            "value": "{LineHeight.sm} + {Space.box.sm.height} + {Space.box.sm.height}",
             "type": "sizing"
           },
           "md": {
-            "value": "{LineHeight.md} + {Space.btn.md.height} +{Space.btn.md.height}",
+            "value": "{LineHeight.md} + {Space.box.md.height} + {Space.box.md.height}",
             "type": "sizing"
           },
           "lg": {
-            "value": "{LineHeight.lg} + {Space.btn.lg.height} +{Space.btn.lg.height}",
+            "value": "{LineHeight.lg} + {Space.box.lg.height} + {Space.box.lg.height}",
             "type": "sizing"
           },
           "xl": {
-            "value": "{LineHeight.xl} + {Space.btn.xl.height} +{Space.btn.xl.height}",
+            "value": "{LineHeight.xl} + {Space.box.xl.height} + {Space.box.xl.height}",
             "type": "sizing"
           }
         }
@@ -485,7 +485,7 @@
       }
     },
     "Space": {
-      "btn": {
+      "box": {
         "xxs": {
           "height": {
             "value": "({LineHeight.xxs} - {FontSize.xxs}) / 2 ",
