@@ -341,6 +341,32 @@
             "value": "{LineHeight.xl} + {Space.box.xl.4} + {Space.box.xl.4}",
             "type": "sizing"
           }
+        },
+        "BorderWidth": {
+          "xxs": {
+            "value": "{BorderWidth.box.xxs}",
+            "type": "sizing"
+          },
+          "xs": {
+            "value": "{BorderWidth.box.xs}",
+            "type": "sizing"
+          },
+          "sm": {
+            "value": "{BorderWidth.box.sm}",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "{BorderWidth.box.md}",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "{BorderWidth.box.lg}",
+            "type": "sizing"
+          },
+          "xl": {
+            "value": "{BorderWidth.box.xl}",
+            "type": "sizing"
+          }
         }
       }
     },
@@ -567,6 +593,32 @@
           },
           "8": {
             "value": "{LineHeight.xl} - {FontSize.xl} ",
+            "type": "spacing"
+          }
+        },
+        "BorderWidth": {
+          "xxs": {
+            "value": "{BorderWidth.box.xxs}",
+            "type": "spacing"
+          },
+          "xs": {
+            "value": "{BorderWidth.box.xs}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "{BorderWidth.box.sm}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{BorderWidth.box.md}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{BorderWidth.box.lg}",
+            "type": "spacing"
+          },
+          "xl": {
+            "value": "{BorderWidth.box.xl}",
             "type": "spacing"
           }
         }
