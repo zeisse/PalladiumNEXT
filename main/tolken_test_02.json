@@ -639,7 +639,7 @@
       }
     },
     "BorderRadius": {
-      "btn": {
+      "box": {
         "xxs": {
           "value": "(({LineHeight.xxs} - {FontSize.xxs}) / 4 ) * 2",
           "type": "borderRadius"
@@ -667,7 +667,7 @@
       }
     },
     "BorderWidth": {
-      "btn": {
+      "box": {
         "xxs": {
           "value": "({FontSize.xxs} * {size.global.minor} ) / {size.global.major}",
           "type": "borderWidth"
