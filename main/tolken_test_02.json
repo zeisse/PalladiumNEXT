@@ -1205,7 +1205,7 @@
           "value": {
             "x": "0",
             "y": "0",
-            "blur": "4",
+            "blur": "{size.global.base} / 4",
             "spread": "0",
             "color": "{Neutrals.Gray 1 100}",
             "type": "innerShadow"
@@ -1216,7 +1216,7 @@
           "value": {
             "x": "0",
             "y": "0",
-            "blur": "6",
+            "blur": "{size.global.base} / 3",
             "spread": "0",
             "color": "{Neutrals.Gray 1 100}",
             "type": "innerShadow"
@@ -1227,7 +1227,7 @@
           "value": {
             "x": "0",
             "y": "0",
-            "blur": "8",
+            "blur": "{size.global.base} / 2",
             "spread": "0",
             "color": "{Neutrals.Gray 1 100}",
             "type": "innerShadow"
