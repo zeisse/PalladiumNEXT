@@ -318,27 +318,27 @@
         },
         "height": {
           "xxs": {
-            "value": "{LineHeight.xxs} + {Space.box.xxs.height} + {Space.box.xxs.height}",
+            "value": "{LineHeight.xxs} + {Space.box.xxs.4} + {Space.box.xxs.4}",
             "type": "sizing"
           },
           "xs": {
-            "value": "{LineHeight.xs} + {Space.box.xs.height} + {Space.box.xs.height}",
+            "value": "{LineHeight.xs} + {Space.box.xs.4} + {Space.box.xs.4}",
             "type": "sizing"
           },
           "sm": {
-            "value": "{LineHeight.sm} + {Space.box.sm.height} + {Space.box.sm.height}",
+            "value": "{LineHeight.sm} + {Space.box.sm.4} + {Space.box.sm.4}",
             "type": "sizing"
           },
           "md": {
-            "value": "{LineHeight.md} + {Space.box.md.height} + {Space.box.md.height}",
+            "value": "{LineHeight.md} + {Space.box.md.4} + {Space.box.md.4}",
             "type": "sizing"
           },
           "lg": {
-            "value": "{LineHeight.lg} + {Space.box.lg.height} + {Space.box.lg.height}",
+            "value": "{LineHeight.lg} + {Space.box.lg.4} + {Space.box.lg.4}",
             "type": "sizing"
           },
           "xl": {
-            "value": "{LineHeight.xl} + {Space.box.xl.height} + {Space.box.xl.height}",
+            "value": "{LineHeight.xl} + {Space.box.xl.4} + {Space.box.xl.4}",
             "type": "sizing"
           }
         }
@@ -487,86 +487,86 @@
     "Space": {
       "box": {
         "xxs": {
-          "height": {
+          "1": {
+            "value": "( {FontSize.xxs} /4 ) /2",
+            "type": "spacing"
+          },
+          "4": {
             "value": "({LineHeight.xxs} - {FontSize.xxs}) / 2 ",
             "type": "spacing"
           },
-          "width": {
+          "8": {
             "value": "{LineHeight.xxs} - {FontSize.xxs} ",
-            "type": "spacing"
-          },
-          "IcoHeight": {
-            "value": "( {FontSize.xxs} /4 ) /2",
             "type": "spacing"
           }
         },
         "xs": {
-          "height": {
+          "1": {
+            "value": "( {FontSize.xs} /4 ) /2",
+            "type": "spacing"
+          },
+          "4": {
             "value": "({LineHeight.xs} - {FontSize.xs}) / 2 ",
             "type": "spacing"
           },
-          "width": {
+          "8": {
             "value": "({LineHeight.xs} - {FontSize.xs}) ",
-            "type": "spacing"
-          },
-          "IcoHeight": {
-            "value": "( {FontSize.xs} /4 ) /2",
             "type": "spacing"
           }
         },
         "sm": {
-          "height": {
+          "1": {
+            "value": "( {FontSize.sm} /4 ) /2",
+            "type": "spacing"
+          },
+          "4": {
             "value": "({LineHeight.sm} - {FontSize.sm}) / 2 ",
             "type": "spacing"
           },
-          "width": {
+          "8": {
             "value": "{LineHeight.sm} - {FontSize.sm} ",
-            "type": "spacing"
-          },
-          "IcoHeight": {
-            "value": "( {FontSize.sm} /4 ) /2",
             "type": "spacing"
           }
         },
         "md": {
-          "height": {
+          "1": {
+            "value": "( {FontSize.md} /4 ) /2",
+            "type": "spacing"
+          },
+          "4": {
             "value": "({LineHeight.md} - {FontSize.md}) / 2 ",
             "type": "spacing"
           },
-          "width": {
+          "8": {
             "value": "{LineHeight.md} - {FontSize.md} ",
-            "type": "spacing"
-          },
-          "IcoHeight": {
-            "value": "( {FontSize.md} /4 ) /2",
             "type": "spacing"
           }
         },
         "lg": {
-          "height": {
+          "1": {
+            "value": "( {FontSize.lg} /4 ) /2",
+            "type": "spacing"
+          },
+          "4": {
             "value": "({LineHeight.lg} - {FontSize.lg}) / 2 ",
             "type": "spacing"
           },
-          "width": {
+          "8": {
             "value": "{LineHeight.lg} - {FontSize.lg} ",
-            "type": "spacing"
-          },
-          "IcoHeight": {
-            "value": "( {FontSize.lg} /4 ) /2",
             "type": "spacing"
           }
         },
         "xl": {
-          "height": {
+          "1": {
+            "value": "( {FontSize.xl} /4 ) /2",
+            "type": "spacing"
+          },
+          "4": {
             "value": "({LineHeight.xl} - {FontSize.xl}) / 2 ",
             "type": "spacing"
           },
-          "width": {
+          "8": {
             "value": "{LineHeight.xl} - {FontSize.xl} ",
-            "type": "spacing"
-          },
-          "IcoHeight": {
-            "value": "( {FontSize.xl} /4 ) /2",
             "type": "spacing"
           }
         }
