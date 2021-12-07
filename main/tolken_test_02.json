@@ -1152,7 +1152,7 @@
           "paragraphSpacing": "{ParagraphSpacing.none}",
           "textCase": "{TextCase.none}",
           "textDecoration": "{TextDecoration.none}",
-          "fontWeight": "{FontWeights.semibold}"
+          "fontWeight": "{FontWeights.regular}"
         },
         "type": "typography"
       },
@@ -1166,7 +1166,7 @@
           "paragraphSpacing": "{ParagraphSpacing.none}",
           "textCase": "{TextCase.none}",
           "textDecoration": "{TextDecoration.none}",
-          "fontWeight": "{FontWeights.semibold}"
+          "fontWeight": "{FontWeights.regular}"
         },
         "type": "typography"
       },
@@ -1180,7 +1180,7 @@
           "paragraphSpacing": "{ParagraphSpacing.none}",
           "textCase": "{TextCase.none}",
           "textDecoration": "{TextDecoration.none}",
-          "fontWeight": "{FontWeights.semibold}"
+          "fontWeight": "{FontWeights.regular}"
         },
         "type": "typography"
       },
@@ -1194,7 +1194,7 @@
           "paragraphSpacing": "{ParagraphSpacing.none}",
           "textCase": "{TextCase.none}",
           "textDecoration": "{TextDecoration.none}",
-          "fontWeight": "{FontWeights.semibold}"
+          "fontWeight": "{FontWeights.regular}"
         },
         "type": "typography"
       }
