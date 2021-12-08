@@ -1234,6 +1234,41 @@
           },
           "type": "boxShadow"
         }
+      },
+      "drop": {
+        "sm": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "{size.global.base} / 4",
+            "spread": "0",
+            "color": "{Neutrals.Gray 3 100}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "md": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "{size.global.base} / 3",
+            "spread": "0",
+            "color": "{Neutrals.Gray 3 100}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "lg": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "{size.global.base} / 2",
+            "spread": "0",
+            "color": "{Neutrals.Gray 3 100}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
       }
     }
   }
