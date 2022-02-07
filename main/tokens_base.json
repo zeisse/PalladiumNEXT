@@ -624,6 +624,11 @@
         }
       },
       "global": {
+        "none": {
+          "value": "0",
+          "description": "0",
+          "type": "spacing"
+        },        
         "4": {
           "value": "{size.global.base}/4",
           "type": "spacing"
@@ -686,11 +691,6 @@
         },
         "256": {
           "value": "({size.global.base}/4) * 64",
-          "type": "spacing"
-        },
-        "none": {
-          "value": "0",
-          "description": "0",
           "type": "spacing"
         }
       }
