@@ -687,11 +687,21 @@
         "256": {
           "value": "({size.global.base}/4) * 64",
           "type": "spacing"
+        },
+        "none": {
+          "value": "0",
+          "description": "0",
+          "type": "spacing"
         }
       }
     },
     "BorderRadius": {
       "box": {
+        "none": {
+          "value": "0",
+          "description": "0",
+          "type": "borderRadius"
+        },
         "xxs": {
           "value": "(({LineHeight.xxs} - {FontSize.xxs}) / 4 ) * 2",
           "type": "borderRadius"
@@ -720,6 +730,11 @@
     },
     "BorderWidth": {
       "box": {
+        "none": {
+          "value": "0",
+          "description": "0",
+          "type": "borderWidth"
+        },
         "xxs": {
           "value": "({FontSize.xxs} * {size.global.minor} ) / {size.global.major}",
           "type": "borderWidth"
