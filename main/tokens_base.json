@@ -409,33 +409,33 @@
           "type": "fontSizes"
         },
         "md": {
-          "value": "{size.global.base} + ( {size.global.minor} * 4) * {size.global.base}",
-          "type": "fontSizes"
-        },
-        "lg": {
           "value": "{size.global.base} + ( {size.global.minor} * 6) * {size.global.base}",
           "type": "fontSizes"
         },
+        "lg": {
+          "value": "{size.global.base} + ( {size.global.minor} * 14) * {size.global.base}",
+          "type": "fontSizes"
+        },
         "xl": {
-          "value": "{size.global.base} + ( {size.global.minor} * 8) * {size.global.base}",
+          "value": "{size.global.base} + ( {size.global.minor} * 30) * {size.global.base}",
           "type": "fontSizes"
         }
       },
       "display": {
         "xxs": {
-          "value": "{size.global.base} + ( {size.global.minor} * 20) * {size.global.base}",
+          "value": "{size.global.base} + ( {size.global.minor} * 14) * {size.global.base}",
           "type": "fontSizes"
         },
         "xs": {
-          "value": "{size.global.base} + ( {size.global.minor} * 28) * {size.global.base}",
+          "value": "{size.global.base} + ( {size.global.minor} * 30) * {size.global.base}",
           "type": "fontSizes"
         },
         "sm": {
-          "value": "{size.global.base} + ( {size.global.minor} * 36) * {size.global.base}",
+          "value": "{size.global.base} + ( {size.global.minor} * 60) * {size.global.base}",
           "type": "fontSizes"
         },
         "md": {
-          "value": "{size.global.base} + ( {size.global.minor} *40) * {size.global.base}",
+          "value": "{size.global.base} + ( {size.global.minor} *90) * {size.global.base}",
           "type": "fontSizes"
         }
       }
@@ -462,7 +462,7 @@
         "type": "lineHeights"
       },
       "xl": {
-        "value": "( ( {size.global.base} + ( {size.global.minor} * 6) * {size.global.base} ) * {size.global.major} )",
+        "value": "( ( {size.global.base} + ( {size.global.minor} * 30) * {size.global.base} ) * {size.global.major} )",
         "type": "lineHeights"
       },
       "head": {
@@ -471,11 +471,11 @@
           "type": "lineHeights"
         },
         "xs": {
-          "value": "( ( {size.global.base} + ( {size.global.minor} * 2) * {size.global.base} ) * {size.global.major} )",
+          "value": "( ( {size.global.base} - ( {size.global.minor} * 0) * {size.global.base} ) * {size.global.major} )",
           "type": "lineHeights"
         },
         "sm": {
-          "value": "( ( {size.global.base} + ( {size.global.minor} * 4) * {size.global.base} ) * {size.global.major} )",
+          "value": "( ( {size.global.base} + ( {size.global.minor} * 2) * {size.global.base} ) * {size.global.major} )",
           "type": "lineHeights"
         },
         "md": {
@@ -483,29 +483,29 @@
           "type": "lineHeights"
         },
         "lg": {
-          "value": "( ( {size.global.base} + ( {size.global.minor} * 8) * {size.global.base} ) * {size.global.major} )",
+          "value": "( ( {size.global.base} + ( {size.global.minor} * 14) * {size.global.base} ) * {size.global.major} )",
           "type": "lineHeights"
         },
         "xl": {
-          "value": "( ( {size.global.base} + ( {size.global.minor} * 12) * {size.global.base} ) * {size.global.major} )",
+          "value": "( ( {size.global.base} + ( {size.global.minor} * 30) * {size.global.base} ) * {size.global.major} )",
           "type": "lineHeights"
         }
       },
       "display": {
         "xxs": {
-          "value": "( ( {size.global.base} + ( {size.global.minor} * 20) * {size.global.base} ) * {size.global.major} )",
+          "value": "( ( {size.global.base} + ( {size.global.minor} * 14) * {size.global.base} ) * {size.global.major} )",
           "type": "lineHeights"
         },
         "xs": {
-          "value": "( ( {size.global.base} + ( {size.global.minor} * 28) * {size.global.base} ) * {size.global.major} )",
+          "value": "( ( {size.global.base} + ( {size.global.minor} * 30) * {size.global.base} ) * {size.global.major} )",
           "type": "lineHeights"
         },
         "sm": {
-          "value": "( ( {size.global.base} + ( {size.global.minor} * 36) * {size.global.base} ) * {size.global.major} )",
+          "value": "( ( {size.global.base} + ( {size.global.minor} * 60) * {size.global.base} ) * {size.global.major} )",
           "type": "lineHeights"
         },
         "md": {
-          "value": "( ( {size.global.base} + ( {size.global.minor} * 40) * {size.global.base} ) * {size.global.major} )",
+          "value": "( ( {size.global.base} + ( {size.global.minor} * 90) * {size.global.base} ) * {size.global.major} )",
           "type": "lineHeights"
         }
       }
@@ -1108,7 +1108,7 @@
         "value": {
           "fontFamily": "{FontFamilies.head}",
           "fontWeights": "{FontWeight.regular}",
-          "lineHeight": "{LineHeights.head.md}",
+          "lineHeight": "{LineHeight.head.md}",
           "fontSize": "{FontSize.head.md}",
           "letterSpacing": "{LetterSpacing.none}",
           "paragraphSpacing": "{ParagraphSpacing.none}",
@@ -1122,7 +1122,7 @@
         "value": {
           "fontFamily": "{FontFamilies.head}",
           "fontWeights": "{FontWeight.regular}",
-          "lineHeight": "{LineHeights.head.sm}",
+          "lineHeight": "{LineHeight.head.sm}",
           "fontSize": "{FontSize.head.sm}",
           "letterSpacing": "{LetterSpacing.none}",
           "paragraphSpacing": "{ParagraphSpacing.none}",
@@ -1136,7 +1136,7 @@
         "value": {
           "fontFamily": "{FontFamilies.head}",
           "fontWeights": "{FontWeight.regular}",
-          "lineHeight": "{LineHeights.head.xs}",
+          "lineHeight": "{LineHeight.head.xs}",
           "fontSize": "{FontSize.head.xs}",
           "letterSpacing": "{LetterSpacing.none}",
           "paragraphSpacing": "{ParagraphSpacing.none}",
@@ -1150,7 +1150,7 @@
         "value": {
           "fontFamily": "{FontFamilies.head}",
           "fontWeights": "{FontWeight.regular}",
-          "lineHeight": "{LineHeights.head.xxs}",
+          "lineHeight": "{LineHeight.head.xxs}",
           "fontSize": "{FontSize.head.xxs}",
           "letterSpacing": "{LetterSpacing.none}",
           "paragraphSpacing": "{ParagraphSpacing.none}",
@@ -1206,7 +1206,7 @@
       },
       "h4": {
         "value": {
-          "fontFamily": "{FontFamilies.head}",
+          "fontFamily": "{FontFamilies.display}",
           "fontWeights": "{FontWeight.regular}",
           "lineHeight": "{LineHeight.display.xxs}",
           "fontSize": "{FontSize.display.xxs}",
