@@ -1051,9 +1051,9 @@
         "value": "none",
         "type": "textDecoration"
       },
-      "Underline": {
+      "underline": {
         "value": "underline",
-        "description": "UL",
+        "description": "",
         "type": "textDecoration"
       }
     },
