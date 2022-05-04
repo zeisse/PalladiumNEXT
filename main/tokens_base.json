@@ -693,6 +693,10 @@
           "description": "0",
           "type": "spacing"
         }
+      },
+      "None": {
+        "value": "0",
+        "type": "spacing"
       }
     },
     "BorderRadius": {
@@ -1408,6 +1412,17 @@
       }
     },
     "large": {
+      "sm": {
+        "value": {
+          "color": "#49596114",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "16",
+          "spread": "0"
+        },
+        "type": "boxShadow"
+      },
       "md": {
         "value": {
           "color": "#49596114",
@@ -1426,17 +1441,6 @@
           "x": "0",
           "y": "0",
           "blur": "64",
-          "spread": "0"
-        },
-        "type": "boxShadow"
-      },
-      "sm": {
-        "value": {
-          "color": "#49596114",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "16",
           "spread": "0"
         },
         "type": "boxShadow"
