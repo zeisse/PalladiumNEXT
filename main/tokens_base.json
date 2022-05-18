@@ -58,6 +58,10 @@
         "value": "#bfc9d0",
         "type": "color"
       },
+      "Gray 4 100-copy": {
+        "value": "#bfc9d0",
+        "type": "color"
+      },
       "Gray 4 075": {
         "value": "#cfd7dc",
         "type": "color"
@@ -1529,5 +1533,6 @@
       },
       "type": "boxShadow"
     }
-  }
+  },
+  "$themes": []
 }
