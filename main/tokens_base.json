@@ -514,85 +514,109 @@
       "box": {
         "xxs": {
           "1": {
-            "value": "( {FontSize.xxs} /4 ) /2",
+            "value": "({LineHeight.xxs} - {FontSize.xxs}) * .25",
             "type": "spacing"
           },
           "4": {
-            "value": "({LineHeight.xxs} - {FontSize.xxs}) / 2 ",
+            "value": "({LineHeight.xxs} - {FontSize.xxs}) * .5",
+            "type": "spacing"
+          },
+          "6": {
+            "value": "({LineHeight.xxs} - {FontSize.xxs}) * .75",
             "type": "spacing"
           },
           "8": {
-            "value": "{LineHeight.xxs} - {FontSize.xxs} ",
+            "value": "({LineHeight.xxs} - {FontSize.xxs}) * 1",
             "type": "spacing"
           }
         },
         "xs": {
           "1": {
-            "value": "( {FontSize.xs} /4 ) /2",
+            "value": "({LineHeight.xs} - {FontSize.xs}) * .25",
             "type": "spacing"
           },
           "4": {
-            "value": "({LineHeight.xs} - {FontSize.xs}) / 2 ",
+            "value": "({LineHeight.xs} - {FontSize.xs}) * .5",
+            "type": "spacing"
+          },
+          "6": {
+            "value": "({LineHeight.xs} - {FontSize.xs}) * .75",
             "type": "spacing"
           },
           "8": {
-            "value": "({LineHeight.xs} - {FontSize.xs}) ",
+            "value": "({LineHeight.xs} - {FontSize.xs}) * 1",
             "type": "spacing"
           }
         },
         "sm": {
           "1": {
-            "value": "( {FontSize.sm} /4 ) /2",
+            "value": "({LineHeight.sm} - {FontSize.sm}) * .25",
             "type": "spacing"
           },
           "4": {
-            "value": "({LineHeight.sm} - {FontSize.sm}) / 2 ",
+            "value": "({LineHeight.sm} - {FontSize.sm}) * .5",
+            "type": "spacing"
+          },
+          "6": {
+            "value": "({LineHeight.sm} - {FontSize.sm}) * .75",
             "type": "spacing"
           },
           "8": {
-            "value": "{LineHeight.sm} - {FontSize.sm} ",
+            "value": "({LineHeight.sm} - {FontSize.sm}) * 1",
             "type": "spacing"
           }
         },
         "md": {
           "1": {
-            "value": "( {FontSize.md} /4 ) /2",
+            "value": "({LineHeight.md} - {FontSize.md}) * .25",
             "type": "spacing"
           },
           "4": {
-            "value": "({LineHeight.md} - {FontSize.md}) / 2 ",
+            "value": "({LineHeight.md} - {FontSize.md}) * .5",
+            "type": "spacing"
+          },
+          "6": {
+            "value": "({LineHeight.md} - {FontSize.md}) * .75",
             "type": "spacing"
           },
           "8": {
-            "value": "{LineHeight.md} - {FontSize.md} ",
+            "value": "({LineHeight.md} - {FontSize.md}) * 1",
             "type": "spacing"
           }
         },
         "lg": {
           "1": {
-            "value": "( {FontSize.lg} /4 ) /2",
+            "value": "({LineHeight.lg} - {FontSize.lg}) * .25",
             "type": "spacing"
           },
           "4": {
-            "value": "({LineHeight.lg} - {FontSize.lg}) / 2 ",
+            "value": "({LineHeight.lg} - {FontSize.lg}) * .5",
+            "type": "spacing"
+          },
+          "6": {
+            "value": "({LineHeight.lg} - {FontSize.lg}) * .75",
             "type": "spacing"
           },
           "8": {
-            "value": "{LineHeight.lg} - {FontSize.lg} ",
+            "value": "({LineHeight.lg} - {FontSize.lg}) * 1",
             "type": "spacing"
           }
         },
         "xl": {
           "1": {
-            "value": "( {FontSize.xl} /4 ) /2",
+            "value": "({LineHeight.xl} - {FontSize.xl}) * .25",
             "type": "spacing"
           },
           "4": {
-            "value": "({LineHeight.xl} - {FontSize.xl}) / 2 ",
+            "value": "({LineHeight.xl} - {FontSize.xl}) * .5",
+            "type": "spacing"
+          },
+          "6": {
+            "value": "({LineHeight.xl} - {FontSize.xl}) * .75",
             "type": "spacing"
           },
           "8": {
-            "value": "{LineHeight.xl} - {FontSize.xl} ",
+            "value": "({LineHeight.xl} - {FontSize.xl}) * 1",
             "type": "spacing"
           }
         },
