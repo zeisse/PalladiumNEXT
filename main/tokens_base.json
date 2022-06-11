@@ -800,14 +800,13 @@
         "regular": {
           "value": {
             "fontFamily": "{FontFamilies.body}",
-            "fontWeights": "{FontWeight.regular}",
+            "fontWeight": "{FontWeights.regular}",
             "lineHeight": "{LineHeight.xl}",
             "fontSize": "{FontSize.xl}",
             "letterSpacing": "{LetterSpacing.none}",
             "paragraphSpacing": "{ParagraphSpacing.none}",
             "textCase": "{TextCase.none}",
-            "textDecoration": "{TextDecoration.none}",
-            "fontWeight": "{FontWeights.regular}"
+            "textDecoration": "{TextDecoration.none}"
           },
           "type": "typography"
         },
