@@ -1482,17 +1482,6 @@
           },
           "type": "boxShadow"
         },
-        "lg": {
-          "value": {
-            "color": "#192d38",
-            "type": "innerShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "8",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
         "md": {
           "value": {
             "color": "#192d38",
@@ -1500,6 +1489,17 @@
             "x": "0",
             "y": "0",
             "blur": "6",
+            "spread": "0"
+          },
+          "type": "boxShadow"
+        },
+        "lg": {
+          "value": {
+            "color": "#192d38",
+            "type": "innerShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "8",
             "spread": "0"
           },
           "type": "boxShadow"
