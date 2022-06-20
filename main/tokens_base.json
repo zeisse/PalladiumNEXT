@@ -1471,36 +1471,69 @@
     },
     "Form": {
       "inner": {
-        "sm": {
+        "xxs": {
           "value": {
-            "color": "#192d38",
-            "type": "innerShadow",
             "x": "0",
             "y": "0",
-            "blur": "4",
-            "spread": "0"
+            "blur": "({LineHeight.xxs} - {FontSize.xxs}) * .5",
+            "spread": "0",
+            "color": "rgba(140,150,155,0.9)",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "xs": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "({LineHeight.xs} - {FontSize.xs}) * .5",
+            "spread": "0",
+            "color": "rgba(140,150,155,0.9)",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "sm": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "({LineHeight.sm} - {FontSize.sm}) * .5",
+            "spread": "0",
+            "color": "rgba(140,150,155,0.9)",
+            "type": "innerShadow"
           },
           "type": "boxShadow"
         },
         "md": {
           "value": {
-            "color": "#192d38",
-            "type": "innerShadow",
             "x": "0",
             "y": "0",
-            "blur": "6",
-            "spread": "0"
+            "blur": "({LineHeight.md} - {FontSize.md}) * .5",
+            "spread": "0",
+            "color": "rgba(140,150,155,0.9)",
+            "type": "innerShadow"
           },
           "type": "boxShadow"
         },
         "lg": {
           "value": {
-            "color": "#192d38",
-            "type": "innerShadow",
             "x": "0",
             "y": "0",
-            "blur": "8",
-            "spread": "0"
+            "blur": "({LineHeight.lg} - {FontSize.lg}) * .5",
+            "spread": "0",
+            "color": "rgba(140,150,155,0.9)",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "xl": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "({LineHeight.lg} - {FontSize.lg}) * .5",
+            "spread": "0",
+            "color": "rgba(140,150,155,0.9)",
+            "type": "innerShadow"
           },
           "type": "boxShadow"
         }
