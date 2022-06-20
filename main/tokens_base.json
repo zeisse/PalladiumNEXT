@@ -1475,9 +1475,9 @@
           "value": {
             "x": "0",
             "y": "0",
-            "blur": "({LineHeight.xxs} - {FontSize.xxs}) * .5",
+            "blur": "({LineHeight.xxs} - {FontSize.xxs}) * .8",
             "spread": "0",
-            "color": "{Neutrals.Black}",
+            "color": "{Neutrals.Gray 1 050}",
             "type": "innerShadow"
           },
           "type": "boxShadow"
@@ -1486,9 +1486,9 @@
           "value": {
             "x": "0",
             "y": "0",
-            "blur": "({LineHeight.xs} - {FontSize.xs}) * .5",
+            "blur": "({LineHeight.xs} - {FontSize.xs}) * .8",
             "spread": "0",
-            "color": "{Neutrals.Black}",
+            "color": "{Neutrals.Gray 1 050}",
             "type": "innerShadow"
           },
           "type": "boxShadow"
@@ -1497,9 +1497,9 @@
           "value": {
             "x": "0",
             "y": "0",
-            "blur": "({LineHeight.sm} - {FontSize.sm}) * .5",
+            "blur": "({LineHeight.sm} - {FontSize.sm}) * .8",
             "spread": "0",
-            "color": "{Neutrals.Black}",
+            "color": "{Neutrals.Gray 1 050}",
             "type": "innerShadow"
           },
           "type": "boxShadow"
@@ -1508,9 +1508,9 @@
           "value": {
             "x": "0",
             "y": "0",
-            "blur": "({LineHeight.md} - {FontSize.md}) * .5",
+            "blur": "({LineHeight.md} - {FontSize.md}) * .8",
             "spread": "0",
-            "color": "{Neutrals.Black}",
+            "color": "{Neutrals.Gray 1 050}",
             "type": "innerShadow"
           },
           "type": "boxShadow"
@@ -1519,9 +1519,9 @@
           "value": {
             "x": "0",
             "y": "0",
-            "blur": "({LineHeight.lg} - {FontSize.lg}) * .5",
+            "blur": "({LineHeight.lg} - {FontSize.lg}) * .8",
             "spread": "0",
-            "color": "{Neutrals.Black}",
+            "color": "{Neutrals.Gray 1 050}",
             "type": "innerShadow"
           },
           "type": "boxShadow"
@@ -1530,9 +1530,9 @@
           "value": {
             "x": "0",
             "y": "0",
-            "blur": "({LineHeight.lg} - {FontSize.lg}) * .5",
+            "blur": "({LineHeight.xl} - {FontSize.xl}) * .8",
             "spread": "0",
-            "color": "{Neutrals.Black}",
+            "color": "#8c969b",
             "type": "innerShadow"
           },
           "type": "boxShadow"
